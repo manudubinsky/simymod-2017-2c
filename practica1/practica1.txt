@@ -1,0 +1,77 @@
+Práctica 1
+----------
+
+Objetivos
+---------
+
+1) Graficar rectas, circunferencias y polígonos
+2) Construir un modelo de objetos geométricos
+3) Implementar un interprete de comandos para realizar diseños geométricos
+
+Introduccion
+------------
+
+Del libro "Introduccion a la computacion gráfica" leer las siguientes 
+secciones:
+
+2.2.1 El sistema de coordenadas físico
+2.2.2 Primitivas gráficas
+
+Ejercicio 1
+-----------
+a) En base a la siguientes secciones del libro:
+
+2.3 Discretizacion de Segmentos de Rectas
+2.3.1 Segmentos de recta DDA
+
+Implementar en python una funcion que grafique segmentos de recta.
+
+b) En base a la siguientes secciones del libro:
+
+2.4 Discretizacion de Circunferencias
+2.4.1 Discretizacion de circunferencias por DDA
+
+Implementar en python una funcion que grafique circunferencias.
+
+c) En base a la siguientes secciones del libro:
+
+2.5 Discretizacion de Polígonos
+
+Implementar en python una funcion que grafique polígonos y los rellene.
+
+
+Ejercicio 2
+-----------
+Implementar en python la siguiente jerarquía de clases: 
+
+class GeometricElement:
+	def show(self, im):
+		pass
+
+class Line(GeometricElement): # grafica un segmento de recta
+	def __init__(self, x0, y0, x1, y1):
+	
+	def show(self, im):
+
+class Circle(GeometricElement) # grafica una circunferencia
+	def __init__(self, cx, cy, r):
+	
+	def show(self, im):
+
+class Scene(GeometricElement) # modelo de una escena: es un container de objetos geométricos 
+	def __init__(self):
+	
+	def add(self, geoElem): # agregar un GeometricElement a la escena
+	
+	def show(self, im):
+
+
+Ejercicio 3
+-----------
+Adaptar el interprete de comandos "interprete.py" para construir una 
+escena de objetos geométricos. Implementar los siguientes comandos:
+
+a) new(): crea una nueva escena
+b) line(x0, y0, x1, y1): agrega a la escena una línea
+c) circ(cx, cy, r): agrega una circunferencia a la escena
+d) show(): muestra la escena en una imagen de 512x512 pixels
