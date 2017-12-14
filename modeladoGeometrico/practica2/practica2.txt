@@ -1,0 +1,68 @@
+Práctica 2
+----------
+
+Objetivos
+---------
+
+1) Implementar transformaciones afines: traslaciones, escalamientos y rotaciones
+2) Implementar windowing y clipping
+3) Armar un sistema de graficacion basado en cuadrilateros
+
+Introduccion
+------------
+
+Del libro "Introduccion a la computacion gráfica" leer el capítulo 3 a partir 
+de la página 10.
+
+Ejercicio 1
+-----------
+Implementar las siguientes funciones:
+
+a) Producto matriz-vector
+
+b) Producto de matrices
+
+c) La función transform(M,p) para realizar transformaciones afines de un punto (M es una matriz de 3x3 y p=(x, y, 1) es un punto homogeneizado) 
+
+d) Transformar ángulos en grados a radianes
+
+Ejercicio 2
+-----------
+Implementar una jerarquía de clases de transformaciones afines
+
+class AffineTransf: # clase base de las transformaciones afines
+	def transform(self, p): # transforma el Point p
+		pass
+
+class Translation(AffineTransf): # Traslacion
+	def __init__(self, (x, y)): # (x,y) es el offset
+
+class Rotation(AffineTransf) # Rotacion
+	def __init__(self, omega):  # omega es el ángulo en radianes de la rotacion
+
+class Scale(AffineTransf) # Escalamiento
+	def __init__(self, lamda): #lamda es el coeficiente de escalamiento
+	
+class AffineTransfComposite(AffineTransf) # modela un producto de transformaciones: es un container de AffineTransf
+	def __init__(self):
+	
+	def add(self, trans): # agregar un AffineTransf al container
+	
+	def transform(self, p): # aplica las transformaciones al punto p (en orden inverso a como fueron agregadas con "add")
+
+Ejercicio 3
+-----------
+a) De acuerdo a la jerarquía de clases de la práctica 1, armar un sistema de graficacion basado en cuadrilateros que permita componer objetos para definir escenas complejas. Implementar (donde resulte conveniente) el método transform() que recibe una AffineTransf y se la aplique a los puntos correspondientes.
+
+b) Diseñar un edificio
+
+c) Aplicar transformaciones afines (rotaciones, escalamientos y traslaciones) al objeto del punto anterior
+
+Ejercicio 4
+-----------
+a) Implementar coordenadas normalizadas (pág. 14)
+
+b) Implementar windowing
+
+c) Implementar clipping	
+ 

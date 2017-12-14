@@ -1,0 +1,473 @@
+[generacion=34, mejorFitness=49.0, antiguedadMejorFitness=10, tiempoEjecucion=2.284]
+Distribucion (49.0) =>
+materias = [
+{ materia=1-Análisis I, profesor=17-Sanchez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=1-Análisis I, profesor=15-Jasen, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=13-Ginobili, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=13-Ginobili, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=12-Koeman, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=18-Smith, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=2-Miguel, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=12-Koeman, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=2-Miguel, bloque=[dia=VIERNES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=19-Perez, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=SABADO, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=false}, 
+{ materia=11-Algoritmos y Programación I, profesor=16-Montecchia, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=6-Barrios, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=7-Kenobi, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=MIERCOLES, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=8-Machuca, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=8-Machuca, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=19-Perez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=11-Poe, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=7-Kenobi, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=12-Koeman, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=7-Kenobi, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=14-Zonzatera, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=8-Machuca, bloque=[dia=VIERNES, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=27-Inglés II, profesor=8-Machuca, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=false}]
+profesores = [
+{ profesor=1-Kiper, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=MARTES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE]]
+{ profesor=2-Miguel, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=MIERCOLES, turno=NOCHE], [dia=VIERNES, turno=NOCHE]]
+{ profesor=3-Dubinsky, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=4-Lagostena, bloques=[[dia=MARTES, turno=MANANA], [dia=JUEVES, turno=MANANA]]
+{ profesor=5-Roldan, bloques=[[dia=MARTES, turno=MANANA], [dia=SABADO, turno=NOCHE]]
+{ profesor=6-Barrios, bloques=[[dia=VIERNES, turno=TARDE]]
+{ profesor=7-Kenobi, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=8-Machuca, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=NOCHE], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=NOCHE]]
+{ profesor=9-Balboa, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=MANANA]]
+{ profesor=11-Poe, bloques=[[dia=VIERNES, turno=TARDE]]
+{ profesor=12-Koeman, bloques=[[dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE]]
+{ profesor=13-Ginobili, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=14-Zonzatera, bloques=[[dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=15-Jasen, bloques=[[dia=VIERNES, turno=TARDE]]
+{ profesor=16-Montecchia, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=17-Sanchez, bloques=[[dia=MARTES, turno=TARDE]]
+{ profesor=18-Smith, bloques=[[dia=MIERCOLES, turno=TARDE]]
+{ profesor=19-Perez, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=TARDE]]]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[generacion=26, mejorFitness=50.0, antiguedadMejorFitness=10, tiempoEjecucion=1.615]
+Distribucion (50.0) =>
+materias = [
+{ materia=1-Análisis I, profesor=15-Jasen, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=1-Análisis I, profesor=15-Jasen, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=20-Allen, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=14-Zonzatera, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=2-Miguel, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=2-Miguel, bloque=[dia=SABADO, turno=TARDE], cumplePreferencia=false}, 
+{ materia=5-Física I, profesor=12-Koeman, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=15-Jasen, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=19-Perez, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=11-Poe, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=false}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=MIERCOLES, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=11-Algoritmos y Programación I, profesor=16-Montecchia, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=7-Kenobi, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=7-Kenobi, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=false}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=8-Machuca, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=19-Perez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=11-Poe, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=12-Koeman, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=7-Kenobi, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=6-Barrios, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=6-Barrios, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=10-FunesMori, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}]
+profesores = [
+{ profesor=1-Kiper, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=2-Miguel, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=SABADO, turno=TARDE]]
+{ profesor=3-Dubinsky, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=4-Lagostena, bloques=[[dia=MARTES, turno=MANANA]]
+{ profesor=5-Roldan, bloques=[[dia=LUNES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=6-Barrios, bloques=[[dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=7-Kenobi, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=8-Machuca, bloques=[[dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=9-Balboa, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=MANANA]]
+{ profesor=10-FunesMori, bloques=[[dia=LUNES, turno=MANANA]]
+{ profesor=11-Poe, bloques=[[dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=12-Koeman, bloques=[[dia=LUNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=13-Ginobili, bloques=[[dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=14-Zonzatera, bloques=[[dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=NOCHE], [dia=VIERNES, turno=TARDE]]
+{ profesor=15-Jasen, bloques=[[dia=LUNES, turno=MANANA], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=16-Montecchia, bloques=[[dia=MARTES, turno=MANANA], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=17-Sanchez, bloques=[[dia=MARTES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=19-Perez, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=TARDE]]
+{ profesor=20-Allen, bloques=[[dia=MIERCOLES, turno=MANANA]]]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[generacion=25, mejorFitness=51.0, antiguedadMejorFitness=10, tiempoEjecucion=1.609]
+Distribucion (51.0) =>
+materias = [
+{ materia=1-Análisis I, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=1-Análisis I, profesor=17-Sanchez, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=17-Sanchez, bloque=[dia=SABADO, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=2-Química, profesor=13-Ginobili, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=14-Zonzatera, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=18-Smith, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=18-Smith, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=2-Miguel, bloque=[dia=VIERNES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=6-Barrios, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=15-Jasen, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=11-Poe, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=11-Poe, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=6-Barrios, bloque=[dia=MARTES, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=12-Sistemas de Representación, profesor=6-Barrios, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=8-Machuca, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=11-Poe, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=19-Perez, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=7-Kenobi, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=12-Koeman, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=14-Zonzatera, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=7-Kenobi, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=15-Jasen, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=8-Machuca, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=false}]
+profesores = [
+{ profesor=1-Kiper, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=JUEVES, turno=MANANA], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=2-Miguel, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=NOCHE]]
+{ profesor=3-Dubinsky, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=4-Lagostena, bloques=[[dia=MARTES, turno=MANANA]]
+{ profesor=5-Roldan, bloques=[[dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=6-Barrios, bloques=[[dia=MARTES, turno=NOCHE], [dia=MIERCOLES, turno=MANANA], [dia=JUEVES, turno=MANANA]]
+{ profesor=7-Kenobi, bloques=[[dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=8-Machuca, bloques=[[dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=9-Balboa, bloques=[[dia=LUNES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=11-Poe, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=12-Koeman, bloques=[[dia=MARTES, turno=TARDE]]
+{ profesor=13-Ginobili, bloques=[[dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE]]
+{ profesor=14-Zonzatera, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=JUEVES, turno=TARDE]]
+{ profesor=15-Jasen, bloques=[[dia=LUNES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=16-Montecchia, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE]]
+{ profesor=17-Sanchez, bloques=[[dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE], [dia=SABADO, turno=NOCHE]]
+{ profesor=18-Smith, bloques=[[dia=MARTES, turno=TARDE], [dia=JUEVES, turno=TARDE]]
+{ profesor=19-Perez, bloques=[[dia=LUNES, turno=MANANA]]]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[generacion=26, mejorFitness=52.0, antiguedadMejorFitness=10, tiempoEjecucion=1.703]
+Distribucion (52.0) =>
+materias = [
+{ materia=1-Análisis I, profesor=17-Sanchez, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=1-Análisis I, profesor=15-Jasen, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=20-Allen, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=17-Sanchez, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=12-Koeman, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=18-Smith, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=18-Smith, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=18-Smith, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=12-Koeman, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=11-Poe, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=NOCHE], cumplePreferencia=false}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=6-Barrios, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=7-Kenobi, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=false}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=8-Machuca, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=1-Kiper, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=11-Poe, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=12-Koeman, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=12-Koeman, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=7-Kenobi, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=7-Kenobi, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=VIERNES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=15-Jasen, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=8-Machuca, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}]
+profesores = [
+{ profesor=1-Kiper, bloques=[[dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=2-Miguel, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=NOCHE], [dia=VIERNES, turno=NOCHE]]
+{ profesor=3-Dubinsky, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=4-Lagostena, bloques=[[dia=JUEVES, turno=MANANA]]
+{ profesor=5-Roldan, bloques=[[dia=VIERNES, turno=TARDE], [dia=VIERNES, turno=NOCHE]]
+{ profesor=6-Barrios, bloques=[[dia=JUEVES, turno=MANANA]]
+{ profesor=7-Kenobi, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=8-Machuca, bloques=[[dia=MIERCOLES, turno=MANANA], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=9-Balboa, bloques=[[dia=MIERCOLES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=11-Poe, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=12-Koeman, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=13-Ginobili, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE]]
+{ profesor=14-Zonzatera, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=MANANA]]
+{ profesor=15-Jasen, bloques=[[dia=LUNES, turno=TARDE], [dia=MIERCOLES, turno=MANANA]]
+{ profesor=16-Montecchia, bloques=[[dia=MARTES, turno=MANANA], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=17-Sanchez, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=18-Smith, bloques=[[dia=MARTES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=20-Allen, bloques=[[dia=MIERCOLES, turno=MANANA]]]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[generacion=32, mejorFitness=53.0, antiguedadMejorFitness=10, tiempoEjecucion=2.079]
+Distribucion (53.0) =>
+materias = [
+{ materia=1-Análisis I, profesor=20-Allen, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=1-Análisis I, profesor=20-Allen, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=17-Sanchez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=6-Barrios, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=18-Smith, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=18-Smith, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=12-Koeman, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=19-Perez, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=19-Perez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=6-Barrios, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=7-Kenobi, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=9-Balboa, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=9-Balboa, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=7-Kenobi, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=7-Kenobi, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=14-Zonzatera, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=14-Zonzatera, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=SABADO, turno=TARDE], cumplePreferencia=false}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=4-Lagostena, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}]
+profesores = [
+{ profesor=1-Kiper, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=2-Miguel, bloques=[[dia=MIERCOLES, turno=TARDE], [dia=MIERCOLES, turno=NOCHE]]
+{ profesor=3-Dubinsky, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=4-Lagostena, bloques=[[dia=MIERCOLES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=5-Roldan, bloques=[[dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=6-Barrios, bloques=[[dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=7-Kenobi, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA]]
+{ profesor=8-Machuca, bloques=[[dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=9-Balboa, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=VIERNES, turno=MANANA], [dia=SABADO, turno=TARDE]]
+{ profesor=11-Poe, bloques=[[dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=12-Koeman, bloques=[[dia=VIERNES, turno=TARDE]]
+{ profesor=13-Ginobili, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=TARDE]]
+{ profesor=14-Zonzatera, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=MANANA], [dia=JUEVES, turno=TARDE]]
+{ profesor=16-Montecchia, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=17-Sanchez, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=18-Smith, bloques=[[dia=LUNES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=19-Perez, bloques=[[dia=LUNES, turno=MANANA], [dia=MARTES, turno=TARDE]]
+{ profesor=20-Allen, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=MANANA]]]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[generacion=30, mejorFitness=54.0, antiguedadMejorFitness=10, tiempoEjecucion=2.069]
+Distribucion (54.0) =>
+materias = [
+{ materia=1-Análisis I, profesor=20-Allen, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=1-Análisis I, profesor=15-Jasen, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=20-Allen, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=2-Química, profesor=13-Ginobili, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=12-Koeman, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=3-Informática, profesor=18-Smith, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=4-Álgebra, profesor=2-Miguel, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=6-Barrios, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=5-Física I, profesor=14-Zonzatera, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=6-Algoritmos y Estructura de Datos, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=7-Inglés I, profesor=3-Dubinsky, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=8-TSC I, profesor=3-Dubinsky, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=11-Poe, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=9-Análisis II, profesor=11-Poe, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=10-Física II, profesor=5-Roldan, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=14-Zonzatera, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=11-Algoritmos y Programación I, profesor=16-Montecchia, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=7-Kenobi, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=12-Sistemas de Representación, profesor=6-Barrios, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=13-Probabilidad y Estadística, profesor=8-Machuca, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=14-Análisis de Circuitos Eléctricos, profesor=17-Sanchez, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=15-Algoritmos y Programación II, profesor=1-Kiper, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=16-Sistemas y Tecnología Electrónica, profesor=1-Kiper, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=17-TSC II, profesor=1-Kiper, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=19-Perez, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=18-Métodos matemáticos de la Ingeniería, profesor=11-Poe, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=12-Koeman, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=19-Circuitos y Mediciones Electrónicas, profesor=7-Kenobi, bloque=[dia=MARTES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=20-Arquitectura de Sistemas de Elaboración de Datos I, profesor=13-Ginobili, bloque=[dia=LUNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=14-Zonzatera, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=21-Gestión de Datos, profesor=14-Zonzatera, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=22-Programación Orientada a Objetos, profesor=16-Montecchia, bloque=[dia=JUEVES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=23-Redes de Computadoras, profesor=16-Montecchia, bloque=[dia=MARTES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=VIERNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=24-Arquitectura de Sistemas de Elaboración de Datos II, profesor=9-Balboa, bloque=[dia=MIERCOLES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=VIERNES, turno=NOCHE], cumplePreferencia=true}, 
+{ materia=25-Sistemas de Control Automático, profesor=2-Miguel, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=15-Jasen, bloque=[dia=LUNES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=26-Estrategias para alcanzar el Exito, profesor=15-Jasen, bloque=[dia=VIERNES, turno=TARDE], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=8-Machuca, bloque=[dia=JUEVES, turno=MANANA], cumplePreferencia=true}, 
+{ materia=27-Inglés II, profesor=11-Poe, bloque=[dia=MIERCOLES, turno=TARDE], cumplePreferencia=true}]
+profesores = [
+{ profesor=1-Kiper, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE]]
+{ profesor=2-Miguel, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=MIERCOLES, turno=NOCHE], [dia=VIERNES, turno=NOCHE]]
+{ profesor=3-Dubinsky, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE]]
+{ profesor=5-Roldan, bloques=[[dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=6-Barrios, bloques=[[dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=7-Kenobi, bloques=[[dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=MANANA]]
+{ profesor=8-Machuca, bloques=[[dia=JUEVES, turno=MANANA], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=MANANA]]
+{ profesor=9-Balboa, bloques=[[dia=MIERCOLES, turno=MANANA], [dia=VIERNES, turno=MANANA]]
+{ profesor=11-Poe, bloques=[[dia=MARTES, turno=TARDE], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=12-Koeman, bloques=[[dia=LUNES, turno=MANANA], [dia=LUNES, turno=TARDE]]
+{ profesor=13-Ginobili, bloques=[[dia=LUNES, turno=TARDE], [dia=MARTES, turno=MANANA], [dia=JUEVES, turno=TARDE]]
+{ profesor=14-Zonzatera, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE]]
+{ profesor=15-Jasen, bloques=[[dia=LUNES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=16-Montecchia, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA], [dia=MIERCOLES, turno=TARDE], [dia=JUEVES, turno=TARDE], [dia=VIERNES, turno=TARDE]]
+{ profesor=17-Sanchez, bloques=[[dia=VIERNES, turno=MANANA], [dia=VIERNES, turno=TARDE]]
+{ profesor=18-Smith, bloques=[[dia=VIERNES, turno=TARDE]]
+{ profesor=19-Perez, bloques=[[dia=MARTES, turno=TARDE]]
+{ profesor=20-Allen, bloques=[[dia=MARTES, turno=MANANA], [dia=MIERCOLES, turno=MANANA]]]
+
